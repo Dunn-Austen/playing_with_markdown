@@ -1,0 +1,21 @@
+- **1** How to become a Turing student
+  - **1.1** successfully apply
+    - **1.1.1** complete the text prompts on the application form
+    - **1.1.2** attach a resume or personal statement to application form
+    - **1.1.3** complete the technical assessment segment of the application
+    - **1.1.4** wait for invitation to schedule an interview
+    - **1.1.5** schedule an interview either online or in person
+  - **1.2** determine the specifics of your program and mod 0 choices
+    - **1.2.1** choose your mod 0 class
+    - **1.2.2** choose your start date from the available options
+    - **1.2.3** choose either the front end or back end program
+      - **1.2.3.1** this step may be changed later
+  - **1.3** complete prerequisite work prior to official entrance into the school
+    - **1.3.1** pass mod 0
+      - **1.3.1.1** attend all classes barring extenuating circumstances
+      - **1.3.1.2** complete all session assignments
+      - **1.3.1.3** complete the mod 0 capstone assignment
+    - **1.3.2** finalize enrollment details
+      - **1.3.2.1** finalize program choice
+      - **1.3.2.2** finalize program start date
+      - **1.3.2.3** send a thank you note to the mod 0 instructors
